@@ -1,3 +1,17 @@
+
 # Automation_Project_Kawasaki_
 
-Explorando uma variedade de funcionalidades do site da Kawasaki Brasil, este repositório concentra-se principalmente em testes blackbox que abordam a interface gráfica (UI). A atenção é direcionada para características específicas e essenciais da aplicação. Utilizando o Eclipse IDE para criar e estruturar elementos e métodos, o Cucumber/BDD é empregado para desenvolver cenários descritivos abrangendo diversas funcionalidades. O Selenium WebDriver desempenha um papel fundamental, permitindo a execução de comandos e códigos para testar as funcionalidades no navegador Chrome. Além disso, as dependências do JUnit são utilizadas para validar as automações em um ambiente integrado de desenvolvimento, utilizando a linguagem de programação Java.
+ - Explorando uma variedade de funcionalidades do site da Kawasaki
+   Brasil, este repositório concentra-se principalmente em testes
+   blackbox que abordam a interface gráfica (UI). 
+   
+ 
+ -   A atenção é direcionada para características específicas e essenciais
+   da aplicação. Utilizando o Eclipse IDE para criar e estruturar
+   elementos e métodos, o Cucumber/BDD é empregado para desenvolver
+   cenários descritivos abrangendo diversas funcionalidades. 
+   
+   
+ - O Selenium WebDriver desempenha um papel fundamental, permitindo a
+   execução de comandos e códigos para testar as funcionalidades no    navegador Chrome. Além disso, as dependências do JUnit são utilizadas    para validar as automações em um ambiente integrado de
+   desenvolvimento, utilizando a linguagem de programação Java.
