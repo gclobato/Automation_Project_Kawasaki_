@@ -27,4 +27,4 @@
 •	Para executar os testes, clique com o botão direito na classe de teste e selecione "Run As" > "JUnit Test".
 6.	Verificar os resultados:
 •	Após a execução dos testes, verifique a saída no console do Eclipse para quaisquer erros ou falhas nos testes.
-•	Analise os resultados para garantir que todas as funcionalidades testadas estão funcionando conforme o esperado.
+•	Analise os resultados para garantir que todas as funcionalidades testadas estão funcionando conforme o esperado. .
